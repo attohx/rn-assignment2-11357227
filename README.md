@@ -11,5 +11,6 @@ Created an app using the EXPO CLI Framework
 - Nathan Attoh - 11357227
 
 ![Alt text](./screenshot.png?raw=true "Image")
+![Alt text](./iosshot.jpg?raw=true "Image")
 
 
